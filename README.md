@@ -1,4 +1,4 @@
-# htb-labs
+# HTB-Labs
 
 This repo documents my journey through Hack The Box labs — from beginner to advanced.  
 As an AI & ML Engineer and Cybersecurity Enthusiast, I’m learning to ethically exploit systems, understand real-world vulnerabilities, and grow as a security researcher.
